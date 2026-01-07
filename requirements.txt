@@ -1,0 +1,3 @@
+claude-agent-sdk
+python-telegram-bot[job-queue]
+python-dotenv
